@@ -7,4 +7,4 @@
 - Heavily tested on removing/adding languages into the hash table
 - Heavily tested on data migration from **Old Hash Table** to **New Hash Table**
 
-****Program runs with 0 memory lakes**** 
+***Program runs with 0 memory lakes*** 
